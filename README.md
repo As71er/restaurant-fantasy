@@ -1,6 +1,6 @@
 # [Practice] Restaurant Fantasy
 
-![Screenshot of the project](https://github.com/user-attachments/assets/e5638ed3-c7c9-4fb0-801d-00578ec58a29)
+![Screenshot of the project](https://github.com/user-attachments/assets/ad5f2819-c958-4f33-81ae-a6174ac1a341)
 
 ## Webpack practice
 
